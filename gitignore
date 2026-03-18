@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# minikube local state (never commit this)
+.minikube/
+
+# kubectl config (contains credentials)
+.kube/
+
+# Logs
+*.log
+
+# Editor folders
+.vscode/
+.idea/
