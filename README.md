@@ -220,7 +220,7 @@ minikube-windows/
 
 ## 📺 Watch the Video
 
-> 🎬 *Link to your YouTube video here*
+> 🎬 *https://youtu.be/z4fbuRDD4n4*
 
 ---
 
